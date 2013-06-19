@@ -21,7 +21,8 @@ bundle exec ruby -Itest test/functional/lists_controller_test.rb --name test_sho
 *katherine
 * GRANT
 
-
+Error
+Tony
 * angel
 * junior
 >>>>>>> 8457c43b5d3a1d1198d40f0c7a48a8de47fb5f6a
