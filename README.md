@@ -9,3 +9,4 @@ This is a shared folder for KidToPro
 
 
 * angel
+* junior
